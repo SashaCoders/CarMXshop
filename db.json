@@ -1,5 +1,11 @@
 {
   "users": [
-    
+    {
+      "id": 1,
+      "name": "Sasha",
+      "surnname": "Podlesnyi",
+      "Car": "Mersedes",
+      "balance": 24500
+    }
   ]
 }
