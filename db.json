@@ -6,6 +6,16 @@
       "surnname": "Podlesnyi",
       "Car": "Mersedes",
       "balance": 24500
+<<<<<<< HEAD
+=======
+    },
+    {
+      "id": 2,
+      "name": "Arthur",
+      "surname": "Smarter",
+      "Car": "Mersedes",
+      "balance": 19730
+>>>>>>> b3d84eb (update db)
     }
   ]
 }
