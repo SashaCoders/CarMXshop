@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* зробити красиву форму 
+найти в інтернеті дизайн форми 
+ідея щоб з права була пів машини*/
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#add {
+    width: 400px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 1px 1px 2px 2px;
+
+}
+
+#add #id {
+    width: 200px;
+    /*height: 30px; */
+    padding: 6px;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+#add #name {
+    width: 200px;
+    /*height: 30px; */
+    padding: 6px;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+#add #surname {
+    width: 200px;
+    /*height: 30px; */
+    padding: 6px;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+#add #car {
+    width: 200px;
+    /*height: 30px; */
+    padding: 6px;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+#add #balance {
+    width: 200px;
+    /*height: 30px; */
+    padding: 6px;
+    margin: 5px;
+    border-radius: 25px;
+}
+
+#submite {
+    width: 200px;
+    /*height: 30px; */
+    padding: 6px;
+    margin: 5px;
+    border-radius: 25px;
+    background: rgb(238, 176, 60);
+    font-size: 20px;
+}
+
+#submite:hover {
+    background: rgb(212, 156, 52);
+}
